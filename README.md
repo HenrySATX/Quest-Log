@@ -4,4 +4,5 @@
 - [ ] Find a Bronze Dragon Scale
 - [ ] Join the Orgate Revolution
 - [ ] Find Ro's Other Friend
-- [ ] Investigate The Orb of Storms
+- [x] Investigate The Orb of Storms
+- [ ] Find Another Traveller's Orb
